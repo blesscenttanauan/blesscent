@@ -124,7 +124,7 @@ section img#logo1_front{
 }
 .gallery{
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(3, auto);
     /*position: relative;*/
     cursor: pointer;
 }

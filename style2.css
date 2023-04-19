@@ -114,8 +114,17 @@ section img#logo1_front{
     font-size: 3.5em;
     margin-bottom: 10px;
     color: #ffffff;
+    text-align: center;
 }
-.section p{
-    font-size: 1.5em;
-    color: #ffffff;
+.sec p{
+    /*font-size: 1.5em;
+    color: #ffffff;*/
+    text-align: justify;
+    padding: 12px;
+    margin: 12px;
+}
+.distributor img{
+    padding: 10px;
+    width: 30%;
+    float: left;
 }
